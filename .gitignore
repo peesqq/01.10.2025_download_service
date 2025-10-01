@@ -1,0 +1,5 @@
+/bin
+/downloads
+*.exe
+*.log
+tasks.json
